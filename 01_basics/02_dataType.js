@@ -8,3 +8,7 @@ let age = 21
 let isLoggerIn= false
 
 // number =>2 to power 53
+//bigint
+//String =>" "
+// boolean => true/false
+// null
